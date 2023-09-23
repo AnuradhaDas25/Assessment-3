@@ -1,0 +1,107 @@
+@media (min-width: 0px) and (max-width: 576px) {
+    /* services section */
+    .services-section h6{ 
+        margin-left: 184px;
+    }
+    .services-title{
+        margin-left: 10px;
+    }
+    /* testimonial section */
+    .testimonial-section{
+        margin-left: 5px;
+    }
+    /* vedio section */
+    .vedio-popup-section .vedio{
+        height: 250px;
+	    width: 400px;
+        margin-left: 61px;
+    }
+    .vedio-popup-section i{
+        margin-top: 105px;
+        font-size: 3rem;
+        transition: .5s linear;
+    }
+    .vedio-popup-section i:hover{
+        cursor: pointer;
+        font-size: 4rem;
+    }
+    /* footer section */
+    .footer-content{
+        margin-left: 50px;
+    }
+    .footer-icon{
+        margin-left: 177px;
+    }
+}
+@media (min-width: 577px) and (max-width: 767px){
+    /* vedio section */
+    .vedio-popup-section .vedio{
+        height: 350px;
+	    width: 500px;
+        margin-left: 9px;
+    }
+    .vedio-popup-section i{
+        margin-top: 158px;
+        font-size: 3.5rem;
+        transition: .5s linear;
+    }
+    .vedio-popup-section i:hover{
+        cursor: pointer;
+        font-size: 4.5rem;
+    }
+    /* services section */
+    .services-section h6{ 
+        margin-left: 179px;
+    }
+    .testimonial-section{
+        margin-left: 10px;;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px){
+    /* services section */
+    .services-section h6{
+        margin-left: 274px;
+    }
+    .services-section .slider-child .icon h1{
+        margin-left: 111px;
+    }
+    /* vedio section */
+    .vedio-popup-section .vedio{
+        height: 380px;
+	    width: 530px;
+        margin-left: -26px;
+    }
+    .vedio-popup-section i{
+        margin-top: 158px;
+        font-size: 3.5rem;
+        transition: .5s linear;
+    }
+    .vedio-popup-section i:hover{
+        cursor: pointer;
+        font-size: 4.5rem;
+    }
+    /* footer section */
+
+    /* vedio section */
+    .vedio-popup-section .vedio{
+        height: 420px;
+	    width: 750px;
+        margin-left: 96px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199px){
+    /* vedio section */
+    .vedio-popup-section .vedio{
+        height: 450px;
+	    width: 800px;
+        margin-left: 96px;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1400px){
+    /* vedio section */
+    .vedio-popup-section .vedio{
+        height: 450px;
+	    width: 800px;
+        margin-left: 166px;
+    }
+}
